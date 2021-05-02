@@ -1,1 +1,1 @@
-Put the .zip file into your resource pack folder.
+Extract the .zip file into your resource pack folder.
