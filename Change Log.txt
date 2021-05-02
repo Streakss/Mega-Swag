@@ -1,0 +1,12 @@
+Changed Wool
+Changed TNT
+Changed Ores
+Changed Mineral Blocks
+Changed Golden Carrot
+Changed Ingots
+Changed Armour
+Changed Leaves
+Changed Logs
+Changed Grass
+Changed Dirt
+Made some ajustments to the explosion sound
