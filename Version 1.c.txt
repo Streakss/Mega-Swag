@@ -1,0 +1,22 @@
+	Version 1.c
+Changed Cobblestone
+Changed Endstone
+Changed Stone
+Changed Andesite
+Changed Smooth Andesite
+Changed Diorite
+Changed Smooth Diorite
+Changed Granite
+Changed Smooth Granite
+Changed Stone Slabs
+Changed All Stone Brick Varients
+Changed Creeper Sounds
+Changed Thunder
+Changed Health
+Changed Hunger
+Changed Settings Background
+Changed Ingame Popup UI
+Changed Buttons
+Changed Sticks
+Changed Gravel
+Walter
