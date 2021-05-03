@@ -19,4 +19,5 @@ Changed Ingame Popup UI
 Changed Buttons
 Changed Sticks
 Changed Gravel
+Changed Hurt Sounds (Credit: Shardzzz)
 Walter
